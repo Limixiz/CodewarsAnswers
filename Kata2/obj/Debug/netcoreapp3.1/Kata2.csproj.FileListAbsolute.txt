@@ -1,0 +1,7 @@
+C:\Users\limix\source\repos\Kata\Kata2\bin\Debug\netcoreapp3.1\Kata2.exe
+C:\Users\limix\source\repos\Kata\Kata2\obj\Debug\netcoreapp3.1\Kata2.csprojAssemblyReference.cache
+C:\Users\limix\source\repos\Kata\Kata2\obj\Debug\netcoreapp3.1\Kata2.AssemblyInfoInputs.cache
+C:\Users\limix\source\repos\Kata\Kata2\obj\Debug\netcoreapp3.1\Kata2.AssemblyInfo.cs
+C:\Users\limix\source\repos\Kata\Kata2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\limix\source\repos\Kata\Kata2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\limix\source\repos\Kata\Kata2\obj\Debug\netcoreapp3.1\Kata2.csproj.CopyComplete

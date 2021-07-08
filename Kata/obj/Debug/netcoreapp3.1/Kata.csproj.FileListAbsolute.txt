@@ -1,0 +1,15 @@
+C:\Users\limix\source\repos\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.exe
+C:\Users\limix\source\repos\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.deps.json
+C:\Users\limix\source\repos\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.runtimeconfig.json
+C:\Users\limix\source\repos\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.runtimeconfig.dev.json
+C:\Users\limix\source\repos\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.dll
+C:\Users\limix\source\repos\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.pdb
+C:\Users\limix\source\repos\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.csprojAssemblyReference.cache
+C:\Users\limix\source\repos\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.AssemblyInfoInputs.cache
+C:\Users\limix\source\repos\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.AssemblyInfo.cs
+C:\Users\limix\source\repos\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.dll
+C:\Users\limix\source\repos\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.pdb
+C:\Users\limix\source\repos\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.genruntimeconfig.cache
+C:\Users\limix\source\repos\Kata\Kata\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\limix\source\repos\Kata\Kata\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\limix\source\repos\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.csproj.CopyComplete

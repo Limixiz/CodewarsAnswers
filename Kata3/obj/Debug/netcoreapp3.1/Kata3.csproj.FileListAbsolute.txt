@@ -1,0 +1,17 @@
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\Kata3.exe
+C:\Users\limix\source\repos\Kata\Kata3\obj\Debug\netcoreapp3.1\Kata3.csprojAssemblyReference.cache
+C:\Users\limix\source\repos\Kata\Kata3\obj\Debug\netcoreapp3.1\Kata3.AssemblyInfoInputs.cache
+C:\Users\limix\source\repos\Kata\Kata3\obj\Debug\netcoreapp3.1\Kata3.AssemblyInfo.cs
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\limix\source\repos\Kata\Kata3\obj\Debug\netcoreapp3.1\Kata3.csproj.CopyComplete
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\Kata3.deps.json
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\Kata3.runtimeconfig.json
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\Kata3.runtimeconfig.dev.json
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\Kata3.dll
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\Kata3.pdb
+C:\Users\limix\source\repos\Kata\Kata3\obj\Debug\netcoreapp3.1\Kata3.dll
+C:\Users\limix\source\repos\Kata\Kata3\obj\Debug\netcoreapp3.1\Kata3.pdb
+C:\Users\limix\source\repos\Kata\Kata3\obj\Debug\netcoreapp3.1\Kata3.genruntimeconfig.cache
+C:\Users\limix\source\repos\Kata\Kata3\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\limix\source\repos\Kata\Kata3\obj\Debug\netcoreapp3.1\Kata3.csproj.CoreCompileInputs.cache

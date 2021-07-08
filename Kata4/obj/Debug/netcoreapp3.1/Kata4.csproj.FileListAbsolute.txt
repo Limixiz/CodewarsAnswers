@@ -1,0 +1,12 @@
+C:\Users\limix\source\repos\Kata\Kata4\bin\Debug\netcoreapp3.1\Kata4.exe
+C:\Users\limix\source\repos\Kata\Kata4\bin\Debug\netcoreapp3.1\Kata4.deps.json
+C:\Users\limix\source\repos\Kata\Kata4\bin\Debug\netcoreapp3.1\Kata4.runtimeconfig.json
+C:\Users\limix\source\repos\Kata\Kata4\bin\Debug\netcoreapp3.1\Kata4.runtimeconfig.dev.json
+C:\Users\limix\source\repos\Kata\Kata4\bin\Debug\netcoreapp3.1\Kata4.dll
+C:\Users\limix\source\repos\Kata\Kata4\bin\Debug\netcoreapp3.1\Kata4.pdb
+C:\Users\limix\source\repos\Kata\Kata4\obj\Debug\netcoreapp3.1\Kata4.AssemblyInfoInputs.cache
+C:\Users\limix\source\repos\Kata\Kata4\obj\Debug\netcoreapp3.1\Kata4.AssemblyInfo.cs
+C:\Users\limix\source\repos\Kata\Kata4\obj\Debug\netcoreapp3.1\Kata4.csproj.CoreCompileInputs.cache
+C:\Users\limix\source\repos\Kata\Kata4\obj\Debug\netcoreapp3.1\Kata4.dll
+C:\Users\limix\source\repos\Kata\Kata4\obj\Debug\netcoreapp3.1\Kata4.pdb
+C:\Users\limix\source\repos\Kata\Kata4\obj\Debug\netcoreapp3.1\Kata4.genruntimeconfig.cache
